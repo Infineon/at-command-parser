@@ -62,7 +62,10 @@
  *                    Constants
  ******************************************************/
 
+#ifndef INPUT_BUFFER_SIZE
 #define INPUT_BUFFER_SIZE           (64U)
+#endif
+
 #define INPUT_THREAD_STACK_SIZE     (6*1024)
 
 #define AT_CMD_MSG_QUEUE_TIMEOUT    (200)

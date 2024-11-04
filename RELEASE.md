@@ -6,6 +6,8 @@ Refer to the [README.md](./README.md) for a complete description of the AT Comma
 
 ## Changelog
 
+### v1.0.1
+* Add support for receiving AT Command from SDIO bus
 ### v1.0.0
 * Initial release for AT Command Parser Library
 
@@ -15,7 +17,7 @@ This version of the AT Command Parser Library was validated for the compatibilit
 
 | Software and Tools                                      | Version |
 | :---                                                    | :----:  |
-| ModusToolbox Software Environment                       | 3.1.0   |
+| ModusToolbox Software Environment                       | 3.2.0   |
 | GCC Compiler                                            | 11.3.1  |
 | IAR Compiler                                            | 9.40    |
 | ARM Compiler 6                                          | 6.16    |
